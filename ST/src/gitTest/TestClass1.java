@@ -7,6 +7,7 @@ public class TestClass1 {
 			;
 		else
 			System.out.println("Hallo Pascal");
+		System.out.println("ST ist sooooooo toll!!!!!!!!111 xoxo");
 	}
 	
 }
